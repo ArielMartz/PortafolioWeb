@@ -94,15 +94,20 @@
         height: 50px;
     }
 
-   
+    .burger-menu{
+        top: 0.3rem;
+        text-decoration: none;
+       }  
 
     .logo a{
         padding: 0 30px;
         font-size: 20px;
         font-weight: bold;
-
     }
-  
+    
+    .link{
+        text-decoration: none;
+    }
 
     .home{
         flex-direction: column;
