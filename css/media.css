@@ -86,7 +86,7 @@
 
 
 
-@media (max-width: 375px){
+@media screen and (max-width: 767px){
     .container_nav{
         display: flex;
         position: fixed;
